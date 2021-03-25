@@ -1,1 +1,1 @@
-# Segmentacao_de_clientes_KMeans
+# Segmentacao de clientes KMeans
